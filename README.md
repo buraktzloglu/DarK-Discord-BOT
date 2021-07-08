@@ -1,2 +1,1 @@
-# DarK-Discord-BOT
 Arşiv
