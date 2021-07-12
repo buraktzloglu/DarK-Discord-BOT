@@ -1,4 +1,4 @@
-Commands:
+Necessary Commands:
 -----------------
 npm i discord.js --save
 
