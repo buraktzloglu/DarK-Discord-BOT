@@ -2,4 +2,4 @@ Necessary Commands:
 -----------------
 npm i discord.js --save
 
-npm i .env
+npm i dotenv
